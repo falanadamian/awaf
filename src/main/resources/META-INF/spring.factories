@@ -1,0 +1,6 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.falana.awaf.configuration.cache.CacheConfiguration,\
+com.falana.awaf.configuration.webflux.WebFilterAutoConfiguration,\
+com.falana.awaf.configuration.properties.AWAFPropertiesConfiguration,\
+com.falana.awaf.api.AccessControlListsController,\
+com.falana.awaf.api.converter.AccessControlConverter
